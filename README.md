@@ -9,6 +9,7 @@ Real Textures: Uses realistic 2K textures for all celestial bodies.
 Elliptical Orbits: Planets travel on elliptical paths, not just perfect circles.
 
 Planet & Sun Rotation: All planets and the sun rotate on their own axes.
+<img width="1368" height="679" alt="Screenshot 2025-10-31 at 4 32 38 PM" src="https://github.com/user-attachments/assets/7a30df5a-ff54-413a-901b-1d9c9ef0e2b7" />
 
 Bonus Features:
 
